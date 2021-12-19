@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "Gap2019": "sa",
+  "author": "Gap2019",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^5.7.1",
